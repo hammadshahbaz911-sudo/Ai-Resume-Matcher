@@ -171,6 +171,6 @@ Potential future enhancements include:
 
 ## Author
 
-**Hammesh**
+**M. Hammad Shahbaz**
 
 Built as an AI/ML portfolio project focused on NLP, semantic embeddings, and practical LLM-powered applications.
