@@ -110,14 +110,15 @@ AI-Resume-Matcher/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd YOUR_REPOSITORY_FOLDER
+git clone https://github.com/hammadshahbaz911-sudo/Ai-Resume-Matcher.git
+cd Ai-Resume-Matcher
 ```
 
 Install the required dependencies:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
+streamlit run app.py
 ```
 
 ## Configuration
